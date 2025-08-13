@@ -1,6 +1,6 @@
 # Hi, I'm Teo 👋
 
-I'm an aspiring **Front-End Developer** focused on building modern, responsive web applications with **React** and **Tailwind CSS**. I also have hands-on experience with **JavaScript**, **HTML/CSS**, **Node.js**, and **MongoDB**, through both structured courses and personal projects.
+I'm an aspiring **Fullstack Developer** focused on building modern, responsive web applications with **React** and **Tailwind CSS**. I also have hands-on experience with **JavaScript**, **HTML/CSS**, **Node.js**, and **MongoDB**, through both structured courses and personal projects.
 
 This GitHub profile showcases my learning journey and the projects I've built — from guided FreeCodeCamp exercises to full-stack apps developed during Coding Factory 7[https://codingfactory.aueb.gr](https://codingfactory.aueb.gr)
 
