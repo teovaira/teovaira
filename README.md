@@ -9,6 +9,7 @@ This GitHub profile showcases my learning journey and the projects I've built â€
 ### ðŸš€ Technologies I work with:
 - HTML / CSS / JavaScript
 - React (Hooks, Components, Props, State)
+- Axios
 - Tailwind CSS
 - Node.js / Express
 - MongoDB
@@ -17,8 +18,8 @@ This GitHub profile showcases my learning journey and the projects I've built â€
 ---
 
 ### ðŸŽ¯ Currently:
-- Preparing for my first Front-End Developer role
-- Focusing on React + Tailwind projects
+- Preparing for my first Fullstack developer role
+- Focusing on MERN projects
 - Practicing clean code, reusable components, and real-world project structures
 
 ---
