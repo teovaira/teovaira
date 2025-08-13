@@ -28,7 +28,7 @@ This GitHub profile showcases my learning journey and the projects I've built â€
 - ðŸ§  Top Projects: See pinned repos below!
 - [https://github.com/teovaira/freecodecamp-html-css-guided-projects](https://github.com/teovaira/freecodecamp-html-css-guided-projects)
 - [https://github.com/teovaira/freecodecamp-js-guided-projects](https://github.com/teovaira/freecodecamp-js-guided-projects)
-- [https://github.com/teovaira/js-testbed-cf7](https://github.com/teovaira/js-testbed-cf7)
+- [https://github.com/teovaira/goal-app](https://github.com/teovaira/goal-app)
 - [https://github.com/teovaira/CF7-Node](https://github.com/teovaira/CF7-Node)
 - [https://github.com/teovaira/cf7-react-intro](https://github.com/teovaira/cf7-react-intro)
 - [https://github.com/teovaira/cf-react-todo-app](https://github.com/teovaira/cf-react-todo-app)
